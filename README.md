@@ -2,6 +2,7 @@
 
 This project designs and constructs a 3-degree-of-freedom robotic arm model. Calculating and testing kinematics, drawing workspaces and planning the trajectory for robots. Then write the program and control the 3-DOF robot in practice
 The 3-degree-of-freedom robot arm model is designed on SolidWorks software as shown below:
+
 ![coordinate_axes_robot](https://github.com/tranvanthe123/3-DOF-ROBOT-ARM/assets/86809706/2736f4e8-916a-4ceb-9249-28dc4a1e8cfa)
 
 2.Drawing workspaces robot 3-DOF arm
