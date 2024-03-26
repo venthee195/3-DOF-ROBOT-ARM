@@ -29,4 +29,5 @@ SOLVE button: calculate angle theta 1,2,3 from the given position of Px, Py, Pz.
 Enter the simulated angle in 2 ways: drag the slider or enter it directly.
 
 Inverse kinematics: synchronous control of joints.
+
 ![Gui_control](https://github.com/tranvanthe123/3-DOF-ROBOT-ARM/assets/86809706/bf6efc1b-905b-497b-ae66-9debde0e7b21)
